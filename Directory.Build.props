@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+	<AvaloniaVersion>11.0.11</AvaloniaVersion>
+	<Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
