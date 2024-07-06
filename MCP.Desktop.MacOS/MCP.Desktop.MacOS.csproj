@@ -6,4 +6,10 @@
   <ItemGroup>
     <ProjectReference Include="..\MCP.Desktop\MCP.Desktop.csproj" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <Compile Update="App.axaml.cs">
+      <DependentUpon>%(Filename)</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
